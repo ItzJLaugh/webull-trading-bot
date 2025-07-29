@@ -1,0 +1,6 @@
+webull
+pandas
+numpy
+scikit-learn
+ta
+python-dotnev
